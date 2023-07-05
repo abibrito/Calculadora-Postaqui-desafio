@@ -15,9 +15,6 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -25,6 +22,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	background-color: var(--backgroud);
+	font-family: var(--fonte-primaria);
 	line-height: 1;
 }
 ol, ul {
@@ -46,5 +45,5 @@ table {
 :root {
   --fonte-primaria:'Roboto', sans-serif;
   --backgroud: #FFCD40;
-  --titulo-size: 35px;
+  --titulo-size: 30px;
 }
