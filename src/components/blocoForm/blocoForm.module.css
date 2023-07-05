@@ -1,9 +1,6 @@
 .form{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
   border-radius: 20px;
-  background: #E1E1E1;
+  background-color: #E1E1E1;
   margin: 3rem auto auto auto;
   width: 80rem;
   height: 40rem;

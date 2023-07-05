@@ -1,0 +1,15 @@
+.input {
+  background-color: #FFF;
+  border:0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.input label {
+  display: block;
+}
+
+.input input {
+  display: block;
+  width: 100%;
+}

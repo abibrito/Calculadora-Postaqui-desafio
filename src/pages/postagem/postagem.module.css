@@ -1,9 +1,8 @@
-*{
-  background-color: var(--backgroud);
-  font-family: var(--fonte-primaria);
-}
-
 .bloco{
   width: 100%;
-  
+}
+
+.subtitulo{
+  display: flex;
+  align-items: center;
 }
