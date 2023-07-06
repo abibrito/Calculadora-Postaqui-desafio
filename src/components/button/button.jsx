@@ -2,8 +2,8 @@ import style from './button.module.css'
 
 function Button() {
   return (
-    <div>
-      <button className={style['btn']}>Avançar</button>
+    <div className={style['btn']}>
+      <button>Avançar</button>
     </div>
   )
 }
