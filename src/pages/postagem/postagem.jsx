@@ -6,7 +6,6 @@ function Postagem() {
   return (<>
     <Header />
     <div className={style['bloco']}>
-      <div className={style['subtitulo']}><h2>Dados de Origem</h2></div>
       <BlocoForm />
     </div>
     
