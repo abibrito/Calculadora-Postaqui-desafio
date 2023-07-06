@@ -45,5 +45,5 @@ table {
 :root {
   --fonte-primaria:'Roboto', sans-serif;
   --backgroud: #FFCD40;
-  --titulo-size: 30px;
+  --titulo-size: 2rem;
 }

@@ -1,3 +1,4 @@
+import Button from "../button/button";
 import InputText from "../inputText/inputText";
 import style from "./form.module.css";
 
@@ -44,6 +45,7 @@ function Form() {
             <InputText label={"Complemento"} inputId={"complemento"} />
           </div>
         </div>
+        <Button />
       </div>
     </form>
   );
